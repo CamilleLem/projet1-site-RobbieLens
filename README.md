@@ -1,1 +1,1 @@
-Base de code pour le cours HTML CSS
+A simple website in HTML / CSS to showcase a photograph portfolio
